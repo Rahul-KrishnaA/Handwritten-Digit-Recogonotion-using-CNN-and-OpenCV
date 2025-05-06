@@ -46,11 +46,8 @@ Handwritten-Digit-Recogonotion-using-CNN-and-OpenCV/
 ---
 
 ## 📸 How It Works
-
     A CNN is trained on the MNIST dataset to classify 28x28 grayscale images of digits.
-
     Using OpenCV, users can draw digits in a black canvas window.
-
     The digit is processed, resized, and passed to the trained model to predict the number.
 
 ---
