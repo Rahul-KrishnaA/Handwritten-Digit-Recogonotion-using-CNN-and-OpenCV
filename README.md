@@ -40,8 +40,8 @@ Handwritten-Digit-Recogonotion-using-CNN-and-OpenCV/
 ## 📷 Screenshots
 
 | Model Summary | Training Accuracy and Loss | Multiple Image Test | Custom Image |
-|------------------------|--------------------------|----------------------------|---------------------------------|
-| ![Model Summary](screenshots/Model Summary.png) | ![Training Accuracy and Loss](screenshots/Training Accuracy and Loss.png) | ![Multiple Image Test](screenshots/Multiple Image Test.png) | ![Custom Image](screenshots/Custom Image.png) |
+|---------------|----------------------------|----------------------|--------------|
+| ![Model Summary](screenshots/model-summary.png) | ![Training Accuracy and Loss](screenshots/training-accuracy-loss.png) | ![Multiple Image Test](screenshots/multiple-image-test.png) | ![Custom Image](screenshots/custom-image.png) |
 
 ---
 
